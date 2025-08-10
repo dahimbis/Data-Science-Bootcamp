@@ -10,8 +10,13 @@ The course outline includes
 6. Geo-plotting and Choropleth
 7. Scikit Learn
 8. Linear Regression
-9. Randon Forest
-10. Decision Tree
+9. Logistic Regression
+10. Randon Forest
+11. Decision Tree
+12. Principal Component Analysis - PCA
+13. Natural Language Processing - NLP
+14. Deep Learning
+15. Artificial Neural Networks - ANN
 
 
-I will be updating course details as soon as I finish each section. Expected to complete the course on 12th August 2026.
+I will update course details as soon as I complete each section. Expected to complete the course on 12th August 2026.
