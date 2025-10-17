@@ -21,8 +21,9 @@ The course outline includes
 
 
 Completed Projects:
-- Prediction of Salaries
-- Titanic
-- Irish Dataset
-
+- E-commerce Purchases
+- 911 Calls Project
+- Finance Project
+- Recommender Systems
+- Big Data Project
 I will update course details as soon as I complete each section. Expected to complete the course on 1st November 2025.
