@@ -28,5 +28,6 @@ Completed Projects:
 - Big Data Project
 - Credit Card Fraud Detection System
 - Titanic
+- Sentiment Analysis
   
 
