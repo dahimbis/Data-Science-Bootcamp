@@ -31,9 +31,8 @@ Completed Projects:
 - Sentiment Analysis
   
 Big Data and Spark with Python
-- E-commerce Purchases
 - Big Data Overview
 - AWS and EC2 Setup
 - RDD Transformations and Actions
-- Spark
+- Spark Overview
   
