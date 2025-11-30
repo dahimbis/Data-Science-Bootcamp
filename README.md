@@ -36,4 +36,5 @@ Big Data and Spark with Python
 - RDD Transformations and Actions
 - Spark Overview
 - Hadoop MapReduce Vs Apache Spark
+- MYSQL
   
