@@ -18,6 +18,7 @@ The course outline includes
 14. Natural Language Processing - NLP
 15. Deep Learning
 16. Artificial Neural Networks - ANN
+17. Neural Networks 
 
 
 Completed Projects:
