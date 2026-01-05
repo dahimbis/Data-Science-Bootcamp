@@ -1,5 +1,5 @@
 ## Python for Data Science and Machine Learning Bootcamp
-I am currently taking a Udemy course on Data Science and Machine Learning. I took this course back in 2018, but it would be a good opportunity to review it since it provided a solid foundation in Machine Learning and Deep Learning.
+Itook a Udemy course on Data Science and Machine Learning. I took this course back in 2018, but it would be a good opportunity to review it since it provided a solid foundation in Machine Learning and Deep Learning.
 
 The course outline includes
 1. Numpy
